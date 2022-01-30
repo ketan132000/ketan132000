@@ -8,13 +8,16 @@
 <!-- - 📫 How to reach me ... -->
 
 
-<!-- ### Connect with me:
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[https://www.linkedin.com/in/ketan-chawla-20a0b51b9/]]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+### Connect with me:
+<a href="https://www.linkedin.com/in/ketan-chawla-20a0b51b9/">
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://instagram.com/ke_tan90?utm_medium=copy_link">
+ <img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href = "mailto: ketanchawla2000@gmail.com">
+  <img align="left" width="25px" src="https://img.icons8.com/plasticine/2x/gmail.png" />
+</a>
 <br />
- -->
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
