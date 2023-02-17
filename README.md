@@ -1,7 +1,3 @@
-# Hola amigos! I'm Ketan Chawla👋
-
-# I'm an AI & ML student!! 
-
 
 - 🌱 I’m currently learning deep learning techniques for object detection.
 - 🥅 2022 Goals: Learn different frameworks, contribute more to Open Source projects and learn more about neural networks!
